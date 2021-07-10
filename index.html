@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="mobile.css" media="all" />
+    <link
+      rel="stylesheet"
+      href="desktop.css"
+      media="screen and (min-width: 375px)"
+    />
+
+    <title>Stats preview card component</title>
+  </head>
+  <body>
+    <main class="main">
+      <div class="container">
+        <div class="card">
+          <div class="card__image-container">
+            <div class="card__image-filter"></div>
+            <img
+              class="card__image"
+              src="images/image-header-mobile.jpg"
+              alt=""
+            />
+          </div>
+          <div class="card__content">
+            <div class="container">
+              <h1 class="card__title">
+                Get <span class="card__highlighted">insights</span> that help
+                your business grow.
+              </h1>
+              <p class="card__paragraph">
+                Discover the benefits of data analytics and make better
+                decisions regarding revenue, customer experience, and overall
+                efficiency.
+              </p>
+              <ul class="stats">
+                <li class="stats__item">
+                  <span class="stats__number">10k+</span>
+                  <span class="stats__heading">companies</span>
+                </li>
+                <li class="stats__item">
+                  <span class="stats__number">314</span>
+                  <span class="stats__heading">templates</span>
+                </li>
+                <li class="stats__item">
+                  <span class="stats__number">12m+</span>
+                  <span class="stats__heading">queries</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
