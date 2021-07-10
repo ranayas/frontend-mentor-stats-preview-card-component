@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [Add live site URL here](https://ranayas.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Renzo Anaya](https://www.your-site.com)
-- Frontend Mentor - [@ranayas](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Renzo Anaya](https://ranayas.github.io/)
+- Frontend Mentor - [@ranayas](https://www.frontendmentor.io/profile/ranayas)
