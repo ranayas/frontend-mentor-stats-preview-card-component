@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/ranayas/frontend-mentor-stats-preview-card-component)
+- Solution URL: [https://github.com/ranayas/frontend-mentor-stats-preview-card-component](https://github.com/ranayas/frontend-mentor-stats-preview-card-component)
 - Live Site URL: [https://ranayas.github.io/stats-preview-card-component/](https://ranayas.github.io/stats-preview-card-component/)
 
 ## My process
